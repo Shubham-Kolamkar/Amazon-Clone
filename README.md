@@ -1,1 +1,1 @@
-# Have created an Amazzon Clone using HTML5 and CSS3.
+# Have created an Amazon Clone using HTML5 and CSS3.
